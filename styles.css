@@ -1,1 +1,5 @@
-font-family: 'Nunito', sans-serif;
+*, *::before , *::after {
+ box-sizing: border-box;
+ font-family: 'Nunito', sans-serif;
+ font-weight: normal;
+}
