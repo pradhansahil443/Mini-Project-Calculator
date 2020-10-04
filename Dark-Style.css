@@ -25,7 +25,7 @@
    border: 1px solid black;
    outline: none;
    background-color: rgba(8, 8, 8, 0.75);
-   color: white;
+   color: rgb(136, 132, 132);
  }
  
  .calculator-grid > button:hover {
